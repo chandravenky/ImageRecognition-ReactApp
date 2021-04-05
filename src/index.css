@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: linear-gradient(to left, #0f2843, #0e5173, #007ea1, #00afca, #12e2eb);
+
+  font-family: "Courier New", "Courier", monospace;
+
+}
+
+
